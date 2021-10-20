@@ -5,5 +5,6 @@ Welcome.
 -> [[Resources]]
 
 -> [[Landing Page]]
--> [[Video Editing Tools]]
+-> [[Video & Audio Editing Tools]]
 -> [[Game Marketing]]
+-> [[Authenticity]]
