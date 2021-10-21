@@ -1,6 +1,9 @@
 - try and understand your [[audience]], don’t *design* your audience, people can smell inauthenticity and dispassion a mile out
 - the personal will end up being the universal, say what you find interesting, be specific, let the others find you
 - who DO you attract? lean into the Venn diagram of your interests and what people respond to
+- [[Tim Ferris]] writes posts and does podcasts that he believes 10% of his audience will *love*, instead of what the majority might *like*. 
+	- There a lot of likeable content (too much) but there’s much, much less loveable content
+	- This is important for motivation too, it's easy to do things you love
 
 Notes from https://tim.blog/2021/10/18/how-i-built-the-tim-ferriss-show-podcast-transcript/
 
