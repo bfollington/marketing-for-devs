@@ -1,6 +1,8 @@
 # Web
 
 [[Visualize Value]]
+[The Network Effects Bible](https://www.nfx.com/post/network-effects-bible)
+
 # Articles
 
 [1000 True Fans](https://kk.org/thetechnium/1000-true-fans/)
